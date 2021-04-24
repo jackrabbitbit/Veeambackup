@@ -1,5 +1,5 @@
 # Veeambackup
-Veeam Agent for Windows Backup w/ Windows Task Scheduler
+Veeam Agent for Windows Backup w/ Windows Task Scheduler to Automatically run based on Windows Task Scheduler Task over the Network to a NAS. 
 
 This is a python project which automates the backup to a NAS location once keyless SSH has been established with the destination. To install this project follow the following steps:
 
